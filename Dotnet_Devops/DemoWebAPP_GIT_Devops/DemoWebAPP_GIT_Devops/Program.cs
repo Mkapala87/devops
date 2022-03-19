@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Dotnet_Core_Devops_GIT
+namespace DemoWebAPP_GIT_Devops
 {
     public class Program
     {

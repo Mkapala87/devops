@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Devops\\Dotnet_Devops\\Dotnet_Core_Devops_GIT\\Dotnet_Core_Devops_GIT\\Dotnet_Core_Devops_GIT.csproj": {}
+    "C:\\Devops\\Dotnet_Devops\\DemoWebAPP_GIT_Devops\\DemoWebAPP_GIT_Devops\\DemoWebAPP_GIT_Devops.csproj": {}
   },
   "projects": {
-    "C:\\Devops\\Dotnet_Devops\\Dotnet_Core_Devops_GIT\\Dotnet_Core_Devops_GIT\\Dotnet_Core_Devops_GIT.csproj": {
+    "C:\\Devops\\Dotnet_Devops\\DemoWebAPP_GIT_Devops\\DemoWebAPP_GIT_Devops\\DemoWebAPP_GIT_Devops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Devops\\Dotnet_Devops\\Dotnet_Core_Devops_GIT\\Dotnet_Core_Devops_GIT\\Dotnet_Core_Devops_GIT.csproj",
-        "projectName": "Dotnet_Core_Devops_GIT",
-        "projectPath": "C:\\Devops\\Dotnet_Devops\\Dotnet_Core_Devops_GIT\\Dotnet_Core_Devops_GIT\\Dotnet_Core_Devops_GIT.csproj",
+        "projectUniqueName": "C:\\Devops\\Dotnet_Devops\\DemoWebAPP_GIT_Devops\\DemoWebAPP_GIT_Devops\\DemoWebAPP_GIT_Devops.csproj",
+        "projectName": "DemoWebAPP_GIT_Devops",
+        "projectPath": "C:\\Devops\\Dotnet_Devops\\DemoWebAPP_GIT_Devops\\DemoWebAPP_GIT_Devops\\DemoWebAPP_GIT_Devops.csproj",
         "packagesPath": "C:\\Users\\mohan\\.nuget\\packages\\",
-        "outputPath": "C:\\Devops\\Dotnet_Devops\\Dotnet_Core_Devops_GIT\\Dotnet_Core_Devops_GIT\\obj\\",
+        "outputPath": "C:\\Devops\\Dotnet_Devops\\DemoWebAPP_GIT_Devops\\DemoWebAPP_GIT_Devops\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
